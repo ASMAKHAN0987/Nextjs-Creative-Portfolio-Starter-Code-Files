@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized robot: 0-9 MAX
+* source:	https://sketchfab.com/3d-models/stylized-robot-0-9-max-cb5013e6151f40279e4d49ae430a1c23
+* author:	Ahmad Qasem (https://sketchfab.com/ahmadqasem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized robot: 0-9 MAX" (https://sketchfab.com/3d-models/stylized-robot-0-9-max-cb5013e6151f40279e4d49ae430a1c23) by Ahmad Qasem (https://sketchfab.com/ahmadqasem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

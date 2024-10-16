@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mickey-mouse-fbx
+* source:	https://sketchfab.com/3d-models/mickey-mouse-fbx-8cfc790775f14c8fbbf386fef1352065
+* author:	jadiel.ozuno (https://sketchfab.com/jadiel.ozuna)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mickey-mouse-fbx" (https://sketchfab.com/3d-models/mickey-mouse-fbx-8cfc790775f14c8fbbf386fef1352065) by jadiel.ozuno (https://sketchfab.com/jadiel.ozuna) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

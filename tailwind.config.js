@@ -7,10 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      fontFamily: {
+        inter: ["var(--font-inter)"],
+      },
+      colors: {
+        background: "rgb(var(---background))",
+        forebackground: "rgb(var(--forebackground))",
+        muted: "rgb(var(--muted))",
+        accent: "rgb(var(--accent))",
+        violetGradient: "linear-gradient(45deg, #7F00FF, #E100FF)",
       },
     },
   },
